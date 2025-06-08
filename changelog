@@ -1,1 +1,7 @@
-
+(6/8/2025)
+• Fixed issue with bubbles not playing for the person bathing.
+• Synced particle effect for bean diarrhea animation.
+• Fixed issue with camp blip not removing when prop is removed.
+• Added camp stash object option.
+• Fixed error with HasItem check.
+• Corrected model for item "lc_campfire_b".
